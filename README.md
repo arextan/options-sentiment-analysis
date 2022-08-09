@@ -1,7 +1,7 @@
 # S&P 500 Sentiment Analysis
 
 ## Introduction
-A subscription for an option order flow sentiment screener costs $69 per month. Obtaining valuable data and analysis is expensive for retail traders looking to better understand the market. This project aims to recreate a basic analysis on the options flow sentiment for the S&P 500 Index (SPX).
+A subscription to access an option order flow sentiment screener costs $69 per month. Obtaining valuable data and analysis is expensive for retail traders looking to better understand the market. This project aims to recreate a basic analysis on the options flow sentiment for the S&P 500 Index (SPX).
 
 Why look at options? The theory is options dedicate all ebbs and flows of the market. There is less liquidity in the market as before due to less traders. All liquidity would be the result of dealer hedging and option trading, but not due to traditional buying and selling. 
 
