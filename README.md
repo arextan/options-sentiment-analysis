@@ -28,7 +28,7 @@ The Thinkorswim Time and Sales features allows me to filter some data, which I t
 <img width="283" alt="Screenshot 2022-08-08 182458" src="https://user-images.githubusercontent.com/105828433/183542534-663c738b-bbfe-4cc7-9483-9cb6477c04eb.png">
 
 Note: 
-* Time series: Monthly Expirations from front month to next quarterly option's expiration (OpEx). For example if today was August 3rd, August to December monthly expirations would be selected. If today was December 22nd, January to March monthly expirations would be selected. The quarterly OpEx are March, June, September, December.
+* Time series: Monthly Expirations from front month to next quarterly option's expiration (OpEx). For example if today was August 3rd, August to December monthly expirations would be selected. If today was December 22nd, January to March monthly expirations would be selected. The quarterly OpEx are March, June, September, and December.
 * Condition: None selected (Spreads, Straddle, BuyWrite, Combo)
 
 The data is then cleaned and manipulated to locate where the option was purchased. If the option was traded above market, then it is considered bought. If the option was traded below market, then it is considered sold. If the option was traded exactly at market price, then it is unclear whether it was bought or sold and is left out of this analysis.
