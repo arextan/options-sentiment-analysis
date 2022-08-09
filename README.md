@@ -45,7 +45,7 @@ From the graphics, we can observe:
 In short, end of day hedging activity may mark the end of this week's bullish run. Until August 19, it is possible for the bullish trend to continue, since more calls were bought today than yesterday. However, bearish option sentiment for the September expiry predicts potential headwinds coming soon. While call buying dominated in the October through December monthlies today, bearish option trades were more prevalent in the past week. Meanwhile the near term put premium chart does not illustrate market fragility yet. Once puts bought is near equal to puts sold, the market is at risk.
 
 ## Limitations
-The major limitation of this analysis is determining whether an option is bought or sold. Deciding whether an option is purchased or written depending on its trade price relative to the bid and ask is too simple of a methodology. For example, a call filled at the bid may not be a sell but rather a limit buy order.
+The major limitation of this analysis is determining whether an option is bought or sold. Deciding whether an option is purchased or written depending on its trade price relative to the bid and ask is too simple of a methodology. For example, a call filled at the bid may not be a sell but rather a limit buy order. Futhermore, the analysis cannot capture all trades, since trades at the market price are ambigious.
 
 Another limitation is that this analysis cannot determine the reason behind an option trade. With this method, it is impossible to tell whether an option trade is to exit a position, add to a position, or part of a complex strategy.
 
